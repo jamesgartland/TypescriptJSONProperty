@@ -1,0 +1,2 @@
+# TypescriptJSONProperty
+JSON.stringfy mapping
